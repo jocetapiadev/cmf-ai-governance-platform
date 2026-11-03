@@ -1,4 +1,4 @@
-# Banco de Chile - CMF & Operational Risk AI Governance Platform 🏦⚖️
+#CMF & Operational Risk AI Governance Platform 🏦⚖️
 
 Plataforma Multi-Agente de Gobierno Operacional, Cumplimiento Normativo CMF (Ley 20.009 de Fraudes) y Trazabilidad de Auditoría en Tiempo Real.
 
